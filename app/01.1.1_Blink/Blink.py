@@ -44,3 +44,4 @@ if __name__ == '__main__':    # Program entrance
 
 
 # ランプの点滅システム
+# 実行完了
